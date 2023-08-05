@@ -1,1 +1,2 @@
 jenkins is one of the cicd tool
+jenkins is open source platform
