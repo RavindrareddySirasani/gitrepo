@@ -2,3 +2,4 @@ hai hello
 welcome to ravi tech
 today we will discuss devops tool is git software
 today discuss git commands
+git have lot of built in commands to manage code
