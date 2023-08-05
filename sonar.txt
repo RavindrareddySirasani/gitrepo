@@ -1,0 +1,1 @@
+sonarqube is used for checking code quality
